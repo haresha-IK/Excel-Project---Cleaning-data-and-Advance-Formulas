@@ -1,0 +1,501 @@
+CustomerID,CustomerName,Category,Product,Sales,Quantity,Discount,Profit,OrderDate
+1008.0,   Bob Brown,Office Supplies,Pen,416.44,,0.07,209.87,01-01-2022
+1003.0,Michael   White,Electronics,Laptop,542.16,2,,error,01-01-2022
+1007.0,ALICE Johnson,Furniture,Desk,624.48,,N/A,,02/01/2022
+1012.0,jane doe,Electronics,Smartphone,91.6,1,,,
+1018.0,   Bob Brown,Electronics,Headphones,169.11,5,,,
+1006.0,ALICE Johnson,Furniture,Chair,842.62,,,error,04-01-2022
+1005.0,Michael   White,Office Supplies,Notebook,853.14,,,error,05/01/2022
+1018.0,ALICE Johnson,Electronics,Tablet,,,,270.45,06/01/2022
+1014.0, John Smith ,Electronics,Headphones,679.7,,N/A,93.12,06/01/2022
+1014.0,jane doe,Electronics,Laptop,970.64,,N/A,99.77,07-01-2022
+1007.0,jane doe,Office Supplies,Marker,607.88,,,171.0,
+1008.0, John Smith ,Office Supplies,Marker,602.48,5,,,
+1010.0,jane doe,Office Supplies,Notebook,906.09,,0.13,105.02,09/01/2022
+,ALICE Johnson,Furniture,Cabinet,476.73,6,,,10-01-2022
+1014.0, John Smith ,Furniture,Desk,873.7,4,,,11/01/2022
+1013.0, John Smith ,Electronics,Tablet,791.48,,,error,
+1012.0,Michael   White,Furniture,Bookshelf,668.49,4,,,
+1000.0,   Bob Brown,Office Supplies,Stapler,942.39,2,N/A,error,13/01/2022
+1006.0,Michael   White,Electronics,Headphones,884.47,,0.23,,14/01/2022
+1000.0,jane doe,Electronics,Smartphone,836.57,,N/A,,14/01/2022
+1002.0,Michael   White,Electronics,Tablet,944.5,,,397.28,15/01/2022
+1006.0,ALICE Johnson,Office Supplies,Marker,236.7,,0.01,343.85,16/01/2022
+1013.0,ALICE Johnson,Electronics,Laptop,312.92,,,error,17-01-2022
+1013.0,   Bob Brown,Furniture,Bookshelf,891.04,,N/A,error,
+1017.0, John Smith ,Furniture,Cabinet,581.93,2,N/A,18.17,18/01/2022
+1019.0,Michael   White,Electronics,Smartphone,488.61,,N/A,,19-01-2022
+1007.0,   Bob Brown,Office Supplies,Stapler,862.15,8,,,19/01/2022
+1008.0,jane doe,Electronics,Smartphone,787.79,2,0.09,467.94,20/01/2022
+1019.0,Michael   White,Furniture,Chair,893.15,,N/A,,21-01-2022
+1016.0, John Smith ,Office Supplies,Stapler,903.29,,N/A,200.62,22/01/2022
+1020.0, John Smith ,Office Supplies,Notebook,954.63,,N/A,149.96,
+1018.0,jane doe,Electronics,Laptop,646.31,2,,error,23-01-2022
+1010.0,ALICE Johnson,Office Supplies,Marker,77.71,,,415.98,24/01/2022
+1014.0, John Smith ,Furniture,Chair,629.87,,N/A,error,25/01/2022
+1007.0,ALICE Johnson,Furniture,Bookshelf,285.93,,0.22,,
+1018.0, John Smith ,Furniture,Desk,163.82,4,0.27,error,
+1002.0,jane doe,Electronics,Headphones,651.15,3,0.05,,27-01-2022
+1018.0,Michael   White,Electronics,Headphones,986.53,,,272.97,27/01/2022
+1012.0, John Smith ,Office Supplies,Marker,224.13,,0.12,-5.49,
+1013.0,Michael   White,Furniture,Desk,965.17,,,246.62,
+1003.0,jane doe,Office Supplies,Marker,769.7,7,0.22,error,
+1001.0, John Smith ,Furniture,Chair,840.27,,N/A,472.41,
+1006.0,   Bob Brown,Furniture,Bookshelf,681.87,,N/A,error,31/01/2022
+1006.0,jane doe,Office Supplies,Marker,796.85,,,112.15,01-02-2022
+1000.0,ALICE Johnson,Furniture,Desk,97.02,,,424.1,02/02/2022
+1013.0,jane doe,Office Supplies,Notebook,642.69,,,error,02/02/2022
+1020.0, John Smith ,Electronics,Headphones,656.58,5,N/A,88.53,
+1019.0,Michael   White,Furniture,Bookshelf,319.81,,,-9.53,04-02-2022
+1010.0, John Smith ,Electronics,Laptop,210.12,,N/A,283.6,
+1000.0, John Smith ,Furniture,Cabinet,109.94,,0.17,314.46,05/02/2022
+1003.0,Michael   White,Electronics,Laptop,949.76,,N/A,error,06-02-2022
+1003.0,Michael   White,Electronics,Tablet,146.11,,,error,07/02/2022
+1006.0,jane doe,Furniture,Desk,669.63,,0.1,error,07/02/2022
+1018.0,Michael   White,Office Supplies,Stapler,806.15,5,0.17,error,
+1013.0,ALICE Johnson,Office Supplies,Notebook,742.8,,,error,09-02-2022
+1005.0,jane doe,Furniture,Cabinet,890.87,9,N/A,,
+, John Smith ,Office Supplies,Stapler,618.34,,0.2,54.52,
+1019.0, John Smith ,Furniture,Chair,750.41,4,,175.14,11/02/2022
+1020.0,Michael   White,Electronics,Headphones,507.12,9,,,12-02-2022
+1014.0,Michael   White,Electronics,Smartphone,452.09,,,error,
+1004.0,   Bob Brown,Office Supplies,Marker,485.45,5,,345.25,13/02/2022
+1007.0,   Bob Brown,Electronics,Tablet,449.36,,N/A,error,14/02/2022
+1011.0,Michael   White,Furniture,Chair,,,0.16,400.24,15/02/2022
+1009.0,jane doe,Electronics,Smartphone,443.41,,,-7.62,15-02-2022
+1011.0,   Bob Brown,Office Supplies,Notebook,840.85,4,,,16-02-2022
+1002.0,Michael   White,Furniture,Bookshelf,747.28,1,,,17/02/2022
+1018.0,ALICE Johnson,Furniture,Desk,,,,,18/02/2022
+1000.0,   Bob Brown,Office Supplies,Marker,254.19,,,error,18/02/2022
+1014.0,ALICE Johnson,Office Supplies,Stapler,395.08,,0.15,,19/02/2022
+1003.0,ALICE Johnson,Furniture,Chair,662.96,,,,
+1001.0,Michael   White,Office Supplies,Stapler,,,0.11,259.63,21-02-2022
+1010.0,jane doe,Electronics,Headphones,,3,,error,
+1004.0,Michael   White,Furniture,Bookshelf,508.87,,,error,
+1006.0,jane doe,Office Supplies,Pen,403.07,,0.19,,
+1011.0,jane doe,Electronics,Tablet,562.06,,N/A,408.05,
+1020.0,Michael   White,Electronics,Smartphone,559.73,,0.13,,
+1015.0,jane doe,Electronics,Smartphone,257.7,6,,error,
+1011.0,   Bob Brown,Electronics,Laptop,992.01,2,,error,26/02/2022
+1007.0,jane doe,Office Supplies,Marker,132.15,6,0.18,262.23,26/02/2022
+1020.0,ALICE Johnson,Electronics,Headphones,202.27,,0.22,error,
+1017.0,   Bob Brown,Office Supplies,Notebook,427.67,,N/A,,28/02/2022
+1015.0,ALICE Johnson,Electronics,Headphones,948.06,,N/A,,
+1015.0,ALICE Johnson,Electronics,Tablet,829.19,,,312.77,
+1005.0,jane doe,Electronics,Laptop,746.99,,,,02/03/2022
+1000.0,Michael   White,Electronics,Laptop,419.21,,,,
+, John Smith ,Furniture,Desk,160.96,,,,04/03/2022
+1013.0,jane doe,Electronics,Laptop,148.88,,,error,04/03/2022
+1010.0, John Smith ,Furniture,Cabinet,367.62,,,error,05-03-2022
+1016.0, John Smith ,Office Supplies,Notebook,517.56,,,error,06-03-2022
+1014.0,Michael   White,Electronics,Smartphone,133.77,,0.07,error,06/03/2022
+1001.0,ALICE Johnson,Furniture,Bookshelf,967.83,,,,07/03/2022
+1007.0,   Bob Brown,Office Supplies,Stapler,612.66,,N/A,-33.39,08-03-2022
+1019.0, John Smith ,Furniture,Bookshelf,,,N/A,,
+1009.0,   Bob Brown,Furniture,Chair,,,N/A,,09/03/2022
+1005.0,Michael   White,Electronics,Smartphone,944.35,,,error,
+1000.0, John Smith ,Electronics,Headphones,363.18,3,N/A,,11/03/2022
+1012.0,jane doe,Electronics,Laptop,875.5,5,N/A,,12/03/2022
+1003.0, John Smith ,Office Supplies,Stapler,964.43,,,error,12-03-2022
+1017.0,Michael   White,Office Supplies,Notebook,999.97,6,N/A,error,13/03/2022
+1001.0,jane doe,Furniture,Chair,114.26,,0.13,195.49,
+1013.0,   Bob Brown,Electronics,Tablet,431.12,6,0.05,error,
+1013.0,jane doe,Furniture,Cabinet,864.55,,N/A,error,15-03-2022
+1017.0,   Bob Brown,Electronics,Laptop,657.97,8,,error,16-03-2022
+1017.0,jane doe,Electronics,Headphones,900.37,10,,,
+1010.0,Michael   White,Furniture,Chair,982.23,4,N/A,error,17/03/2022
+1013.0,Michael   White,Office Supplies,Notebook,553.77,,N/A,,18-03-2022
+1017.0,   Bob Brown,Furniture,Bookshelf,407.63,,0.07,,
+1013.0,ALICE Johnson,Office Supplies,Marker,193.03,8,,,20-03-2022
+1016.0,jane doe,Electronics,Smartphone,788.91,,N/A,154.17,
+1004.0,Michael   White,Office Supplies,Notebook,915.95,,N/A,-25.03,21/03/2022
+1019.0,ALICE Johnson,Furniture,Cabinet,256.62,,,-31.66,
+1003.0,jane doe,Furniture,Chair,,9,,,
+1003.0, John Smith ,Office Supplies,Stapler,815.1,,,error,
+,ALICE Johnson,Furniture,Cabinet,991.08,6,,error,24/03/2022
+1008.0,jane doe,Office Supplies,Pen,916.52,5,,359.07,
+1015.0,jane doe,Furniture,Desk,,,0.1,,
+1004.0,jane doe,Furniture,Cabinet,,,,error,26/03/2022
+1007.0,   Bob Brown,Office Supplies,Notebook,281.57,1,0.21,,
+1008.0,   Bob Brown,Office Supplies,Stapler,904.8,,,40.63,
+1018.0,Michael   White,Office Supplies,Pen,245.78,,,error,28-03-2022
+1003.0,Michael   White,Furniture,Cabinet,987.7,8,0.23,69.75,29/03/2022
+1012.0,   Bob Brown,Electronics,Headphones,357.9,,,error,30/03/2022
+1011.0,jane doe,Electronics,Smartphone,716.97,7,,,
+1007.0, John Smith ,Office Supplies,Stapler,521.27,,,,31/03/2022
+1007.0, John Smith ,Electronics,Laptop,613.93,8,,,
+1002.0,jane doe,Office Supplies,Marker,524.41,10,,error,02-04-2022
+1019.0, John Smith ,Furniture,Desk,274.71,,N/A,486.84,
+1013.0, John Smith ,Electronics,Tablet,144.48,5,0.03,104.23,03/04/2022
+, John Smith ,Electronics,Laptop,626.14,,0.03,251.52,04-04-2022
+1000.0,   Bob Brown,Electronics,Headphones,626.1,9,N/A,error,05/04/2022
+1017.0,   Bob Brown,Office Supplies,Marker,391.66,,,error,05-04-2022
+1007.0,Michael   White,Furniture,Desk,302.0,,N/A,,06/04/2022
+1005.0,Michael   White,Office Supplies,Marker,645.72,2,0.09,63.38,
+1019.0,   Bob Brown,Furniture,Chair,425.8,5,0.29,error,08/04/2022
+1016.0,   Bob Brown,Furniture,Bookshelf,269.19,,0.16,14.57,08/04/2022
+1016.0,Michael   White,Office Supplies,Stapler,144.9,,,-3.11,09-04-2022
+1020.0,ALICE Johnson,Office Supplies,Notebook,438.4,,N/A,error,
+1016.0,ALICE Johnson,Electronics,Tablet,339.42,,,error,10/04/2022
+1015.0,   Bob Brown,Electronics,Tablet,656.17,,,error,11-04-2022
+1003.0,jane doe,Office Supplies,Marker,733.73,1,,error,12/04/2022
+1006.0,   Bob Brown,Electronics,Tablet,956.05,5,,error,
+1011.0,ALICE Johnson,Furniture,Cabinet,,,,,
+1012.0,jane doe,Furniture,Chair,857.99,6,,,14/04/2022
+1020.0,ALICE Johnson,Office Supplies,Stapler,711.24,,N/A,error,
+1012.0,   Bob Brown,Furniture,Chair,463.22,6,N/A,error,16-04-2022
+1017.0,jane doe,Furniture,Bookshelf,323.55,,N/A,,16-04-2022
+1004.0,jane doe,Office Supplies,Pen,741.89,,,30.83,17-04-2022
+1012.0,ALICE Johnson,Electronics,Tablet,125.24,,N/A,,18-04-2022
+1017.0,   Bob Brown,Furniture,Cabinet,78.48,,,error,
+1005.0,   Bob Brown,Furniture,Desk,86.43,,,-39.9,19/04/2022
+1003.0,ALICE Johnson,Electronics,Tablet,146.05,,0.27,error,20-04-2022
+1011.0,   Bob Brown,Office Supplies,Pen,169.15,3,N/A,error,
+1001.0,   Bob Brown,Furniture,Bookshelf,,8,0.2,459.98,
+1009.0,jane doe,Office Supplies,Stapler,190.23,3,0.01,129.03,22-04-2022
+1014.0,Michael   White,Office Supplies,Pen,131.35,,,-51.03,23/04/2022
+1018.0,   Bob Brown,Furniture,Cabinet,348.24,,0.14,150.43,24/04/2022
+1004.0, John Smith ,Office Supplies,Pen,653.66,,,,24-04-2022
+1016.0,jane doe,Office Supplies,Notebook,751.4,,N/A,error,
+1013.0,   Bob Brown,Furniture,Desk,143.66,,0.19,error,26/04/2022
+1004.0,Michael   White,Office Supplies,Pen,155.71,,N/A,error,
+1019.0,ALICE Johnson,Furniture,Cabinet,972.12,,N/A,161.91,
+1012.0,Michael   White,Office Supplies,Notebook,752.53,1,N/A,78.52,28/04/2022
+1006.0,jane doe,Office Supplies,Marker,,6,N/A,error,29/04/2022
+1014.0,Michael   White,Furniture,Bookshelf,334.25,5,,204.39,
+1009.0,ALICE Johnson,Office Supplies,Notebook,91.4,,N/A,486.34,30/04/2022
+1019.0,jane doe,Office Supplies,Marker,612.65,5,0.05,,01/05/2022
+1012.0,jane doe,Electronics,Headphones,501.61,1,,371.64,02/05/2022
+1012.0,ALICE Johnson,Electronics,Laptop,658.82,,0.02,166.26,02-05-2022
+1002.0, John Smith ,Electronics,Tablet,644.78,,,,03-05-2022
+1004.0,   Bob Brown,Office Supplies,Marker,580.09,,0.07,,04/05/2022
+1015.0,ALICE Johnson,Furniture,Bookshelf,639.95,,N/A,error,
+1005.0,jane doe,Office Supplies,Pen,239.16,,,error,
+1014.0, John Smith ,Furniture,Bookshelf,439.83,7,N/A,472.38,
+1004.0,   Bob Brown,Electronics,Laptop,514.27,6,N/A,,
+1015.0,jane doe,Furniture,Bookshelf,139.46,2,N/A,336.15,07/05/2022
+1016.0,ALICE Johnson,Electronics,Headphones,,10,0.23,error,08/05/2022
+1006.0,   Bob Brown,Office Supplies,Marker,775.84,,N/A,,09-05-2022
+1011.0,ALICE Johnson,Electronics,Tablet,904.36,,,225.69,10/05/2022
+1006.0,Michael   White,Office Supplies,Marker,839.39,5,0.11,179.96,10/05/2022
+1018.0,ALICE Johnson,Furniture,Cabinet,235.53,,N/A,175.68,
+1002.0, John Smith ,Furniture,Chair,880.81,,N/A,error,12-05-2022
+1003.0,   Bob Brown,Electronics,Smartphone,,,N/A,error,
+1011.0, John Smith ,Office Supplies,Stapler,177.01,,,error,13-05-2022
+1012.0,   Bob Brown,Office Supplies,Pen,254.4,,0.04,error,
+1003.0, John Smith ,Furniture,Desk,486.89,,0.07,424.65,15/05/2022
+1017.0,jane doe,Furniture,Chair,454.78,,,error,15-05-2022
+1006.0,jane doe,Office Supplies,Notebook,277.78,,,error,16-05-2022
+1003.0,   Bob Brown,Furniture,Desk,724.16,,,71.49,17-05-2022
+1012.0,   Bob Brown,Electronics,Smartphone,277.84,,N/A,,18-05-2022
+,jane doe,Electronics,Smartphone,741.87,,N/A,,
+1002.0,ALICE Johnson,Furniture,Chair,,2,,-8.15,19/05/2022
+1006.0, John Smith ,Office Supplies,Pen,99.87,,N/A,error,
+1009.0,   Bob Brown,Furniture,Cabinet,676.28,,N/A,,
+1019.0,ALICE Johnson,Electronics,Smartphone,884.05,,,,
+1006.0,ALICE Johnson,Electronics,Smartphone,478.72,7,N/A,error,
+1005.0, John Smith ,Office Supplies,Marker,991.75,,N/A,179.44,23-05-2022
+,Michael   White,Office Supplies,Marker,292.47,,,-45.25,23/05/2022
+1004.0,ALICE Johnson,Furniture,Chair,,,N/A,error,24/05/2022
+1020.0,   Bob Brown,Office Supplies,Marker,803.89,9,,,25-05-2022
+1017.0,   Bob Brown,Electronics,Laptop,831.58,,0.02,298.32,26/05/2022
+1020.0, John Smith ,Furniture,Bookshelf,,,0.12,,26/05/2022
+1011.0,Michael   White,Furniture,Cabinet,624.78,,0.26,,
+1010.0,ALICE Johnson,Office Supplies,Notebook,971.72,6,,,
+1016.0, John Smith ,Furniture,Desk,821.86,,N/A,error,29-05-2022
+1018.0, John Smith ,Electronics,Tablet,,,,error,
+,   Bob Brown,Office Supplies,Marker,655.69,,,370.38,30/05/2022
+1002.0,ALICE Johnson,Furniture,Bookshelf,,,N/A,error,
+,jane doe,Office Supplies,Marker,454.97,,N/A,,
+1002.0,ALICE Johnson,Furniture,Bookshelf,559.23,,,error,
+1003.0,jane doe,Office Supplies,Notebook,783.07,,N/A,error,
+1016.0,jane doe,Office Supplies,Stapler,,,,error,
+1011.0,jane doe,Electronics,Headphones,172.79,3,,29.35,
+1001.0,jane doe,Furniture,Cabinet,403.73,,,error,04-06-2022
+1020.0,Michael   White,Office Supplies,Notebook,775.72,,,error,05-06-2022
+1019.0,ALICE Johnson,Electronics,Laptop,292.64,2,0.11,379.12,06-06-2022
+1010.0,jane doe,Office Supplies,Notebook,709.3,,,,06/06/2022
+1000.0,   Bob Brown,Office Supplies,Pen,878.43,,N/A,,
+1009.0,   Bob Brown,Furniture,Bookshelf,798.85,,N/A,133.82,
+1005.0, John Smith ,Furniture,Cabinet,619.57,5,,error,09-06-2022
+1007.0,jane doe,Furniture,Desk,518.76,7,0.29,,
+1001.0,ALICE Johnson,Electronics,Smartphone,,1,,error,10-06-2022
+, John Smith ,Electronics,Headphones,,,0.25,error,11-06-2022
+1019.0,jane doe,Electronics,Tablet,928.39,,,,
+1004.0, John Smith ,Office Supplies,Stapler,873.94,,N/A,,
+,jane doe,Electronics,Tablet,735.52,,,error,13-06-2022
+1001.0,   Bob Brown,Furniture,Bookshelf,94.25,,,,14-06-2022
+1005.0,   Bob Brown,Electronics,Smartphone,81.69,,N/A,,14-06-2022
+1007.0, John Smith ,Furniture,Chair,879.71,1,,,15/06/2022
+1019.0, John Smith ,Furniture,Desk,,,0.28,436.02,16/06/2022
+1010.0,   Bob Brown,Office Supplies,Notebook,350.26,,0.06,,
+1014.0, John Smith ,Furniture,Bookshelf,174.37,,0.21,error,17/06/2022
+,jane doe,Furniture,Bookshelf,96.03,10,,error,18/06/2022
+1003.0, John Smith ,Furniture,Chair,337.22,,,,19-06-2022
+1011.0,   Bob Brown,Office Supplies,Marker,937.28,,N/A,,19/06/2022
+1020.0, John Smith ,Furniture,Bookshelf,213.38,5,N/A,-3.16,20/06/2022
+1002.0,Michael   White,Electronics,Smartphone,541.53,9,N/A,-75.23,
+1016.0,   Bob Brown,Furniture,Desk,250.17,10,N/A,error,
+1008.0,   Bob Brown,Office Supplies,Marker,680.11,1,,,
+,ALICE Johnson,Furniture,Cabinet,396.02,,0.23,error,
+1020.0,ALICE Johnson,Office Supplies,Pen,307.16,3,0.22,47.35,24/06/2022
+,ALICE Johnson,Office Supplies,Pen,189.35,8,0.18,,25/06/2022
+1014.0, John Smith ,Office Supplies,Stapler,436.9,,0.23,,25/06/2022
+1019.0,   Bob Brown,Office Supplies,Pen,966.2,,0.16,error,
+1005.0, John Smith ,Office Supplies,Stapler,716.4,,0.29,,27/06/2022
+1000.0,   Bob Brown,Electronics,Headphones,,10,0.25,,27/06/2022
+1020.0,jane doe,Furniture,Desk,72.86,,0.0,,28-06-2022
+1020.0,jane doe,Office Supplies,Notebook,391.04,,N/A,498.13,
+1001.0, John Smith ,Electronics,Laptop,454.76,9,,135.47,30-06-2022
+1003.0,   Bob Brown,Office Supplies,Notebook,115.64,,,,30-06-2022
+1017.0,   Bob Brown,Furniture,Chair,,10,0.07,247.56,
+1012.0, John Smith ,Electronics,Smartphone,982.84,,N/A,164.72,
+1011.0,ALICE Johnson,Furniture,Chair,561.87,2,,error,03/07/2022
+1017.0, John Smith ,Electronics,Laptop,63.21,,,error,03/07/2022
+1013.0, John Smith ,Electronics,Headphones,400.93,,N/A,8.8,04-07-2022
+1001.0,jane doe,Electronics,Headphones,,5,0.08,,05/07/2022
+1006.0,Michael   White,Office Supplies,Marker,110.71,7,,,
+1011.0,jane doe,Furniture,Desk,,9,,,06/07/2022
+1012.0,Michael   White,Electronics,Smartphone,595.85,,,error,
+1005.0,Michael   White,Furniture,Desk,378.78,,,311.9,
+1007.0, John Smith ,Furniture,Bookshelf,709.66,,N/A,error,
+1006.0,   Bob Brown,Electronics,Laptop,277.62,1,N/A,397.39,
+,jane doe,Furniture,Bookshelf,881.39,6,,-30.6,
+1018.0,   Bob Brown,Furniture,Desk,679.65,,,error,11-07-2022
+1011.0,Michael   White,Office Supplies,Pen,878.94,3,N/A,error,11-07-2022
+1015.0,ALICE Johnson,Electronics,Tablet,813.04,10,,error,12-07-2022
+1013.0,   Bob Brown,Office Supplies,Pen,726.85,,,222.95,
+1002.0,jane doe,Furniture,Chair,894.03,2,0.06,17.18,14/07/2022
+1002.0,ALICE Johnson,Furniture,Cabinet,105.4,,,276.46,14-07-2022
+1003.0, John Smith ,Electronics,Laptop,53.15,,N/A,error,
+1014.0,   Bob Brown,Furniture,Desk,535.76,,,313.03,16-07-2022
+1000.0,ALICE Johnson,Electronics,Smartphone,598.84,,,error,
+1007.0,   Bob Brown,Electronics,Laptop,590.67,,,-97.77,17/07/2022
+1001.0, John Smith ,Office Supplies,Notebook,738.65,,N/A,error,18/07/2022
+, John Smith ,Electronics,Smartphone,970.87,2,0.27,,
+1000.0,   Bob Brown,Office Supplies,Pen,282.28,,N/A,,19-07-2022
+1005.0, John Smith ,Furniture,Desk,834.6,,,7.32,
+1001.0,   Bob Brown,Furniture,Bookshelf,972.7,,0.16,error,21-07-2022
+1000.0,ALICE Johnson,Electronics,Laptop,75.68,9,N/A,error,22/07/2022
+1002.0,Michael   White,Furniture,Desk,688.68,,N/A,351.98,22/07/2022
+1014.0,ALICE Johnson,Electronics,Headphones,979.72,,,,23-07-2022
+1010.0,jane doe,Furniture,Bookshelf,396.45,,0.17,3.84,
+1012.0,Michael   White,Furniture,Chair,554.18,,N/A,227.21,
+1019.0,jane doe,Office Supplies,Notebook,,1,,96.48,25-07-2022
+1006.0,   Bob Brown,Electronics,Smartphone,486.28,,0.0,error,26-07-2022
+1017.0,Michael   White,Electronics,Tablet,,,0.24,,27/07/2022
+1000.0,jane doe,Office Supplies,Marker,147.86,8,,-99.61,27/07/2022
+1009.0,   Bob Brown,Furniture,Bookshelf,711.34,,,,28/07/2022
+1003.0, John Smith ,Electronics,Laptop,862.73,,0.29,error,29-07-2022
+1012.0,ALICE Johnson,Electronics,Tablet,71.5,,,error,30/07/2022
+1009.0,   Bob Brown,Furniture,Bookshelf,500.01,,0.07,,30-07-2022
+1002.0,   Bob Brown,Office Supplies,Pen,802.14,6,0.12,,
+1014.0,   Bob Brown,Furniture,Chair,224.53,,N/A,,01-08-2022
+1020.0,jane doe,Furniture,Cabinet,484.8,,N/A,,
+1013.0,ALICE Johnson,Electronics,Headphones,569.7,5,,error,02/08/2022
+1020.0, John Smith ,Office Supplies,Stapler,627.76,,0.24,error,
+1002.0,Michael   White,Office Supplies,Marker,507.06,,N/A,371.6,04-08-2022
+1002.0,jane doe,Furniture,Desk,705.75,4,,,04-08-2022
+1019.0, John Smith ,Electronics,Laptop,104.3,,N/A,14.12,
+1001.0,   Bob Brown,Electronics,Tablet,477.63,9,0.24,error,
+1008.0,   Bob Brown,Furniture,Chair,,,0.26,error,
+1003.0,   Bob Brown,Office Supplies,Stapler,681.56,,,474.35,
+1018.0,ALICE Johnson,Office Supplies,Notebook,332.16,8,,error,08/08/2022
+1012.0,   Bob Brown,Furniture,Cabinet,382.79,,,205.96,
+1013.0,jane doe,Furniture,Desk,752.03,,0.02,247.52,
+1016.0, John Smith ,Office Supplies,Notebook,408.81,,,,
+, John Smith ,Furniture,Cabinet,524.63,1,,-9.79,11/08/2022
+1014.0,ALICE Johnson,Furniture,Bookshelf,378.04,,N/A,,12/08/2022
+1000.0, John Smith ,Office Supplies,Stapler,726.08,,,error,
+1007.0,jane doe,Furniture,Desk,741.51,10,,,13-08-2022
+1001.0, John Smith ,Furniture,Chair,695.28,,0.21,-92.33,14/08/2022
+1005.0,Michael   White,Office Supplies,Notebook,176.08,,N/A,,
+1014.0,   Bob Brown,Electronics,Laptop,329.23,,N/A,,15-08-2022
+1014.0, John Smith ,Furniture,Chair,139.56,,N/A,error,
+1005.0,ALICE Johnson,Office Supplies,Marker,913.84,,0.12,error,17-08-2022
+1017.0,ALICE Johnson,Office Supplies,Stapler,635.31,,,,18/08/2022
+1010.0,ALICE Johnson,Furniture,Chair,857.92,,,error,
+1013.0,Michael   White,Office Supplies,Notebook,858.44,5,,73.66,19/08/2022
+1010.0,   Bob Brown,Furniture,Cabinet,466.52,6,,391.57,
+1017.0, John Smith ,Furniture,Bookshelf,617.14,,N/A,error,20/08/2022
+1010.0,   Bob Brown,Office Supplies,Stapler,,,N/A,error,21/08/2022
+1019.0,   Bob Brown,Electronics,Laptop,658.43,,,error,22-08-2022
+1015.0,jane doe,Electronics,Smartphone,494.42,,N/A,,
+1019.0,   Bob Brown,Furniture,Chair,395.89,,0.08,151.99,23-08-2022
+1003.0,jane doe,Office Supplies,Pen,960.72,10,,,24/08/2022
+1005.0,ALICE Johnson,Office Supplies,Marker,432.94,1,0.18,,25/08/2022
+1009.0,   Bob Brown,Furniture,Chair,639.44,,0.28,74.78,
+1007.0,jane doe,Furniture,Desk,79.02,10,,68.26,26/08/2022
+1015.0,Michael   White,Electronics,Tablet,522.76,,0.03,261.27,27/08/2022
+1020.0,jane doe,Electronics,Smartphone,631.42,7,0.23,error,28/08/2022
+1010.0,Michael   White,Furniture,Desk,789.23,,N/A,,28-08-2022
+1015.0, John Smith ,Furniture,Desk,841.2,,,,29-08-2022
+1010.0,ALICE Johnson,Electronics,Headphones,387.48,,0.29,,
+1002.0,jane doe,Office Supplies,Notebook,577.42,,,,31/08/2022
+1018.0,Michael   White,Electronics,Laptop,457.16,,,,
+, John Smith ,Office Supplies,Pen,502.98,,N/A,387.77,01/09/2022
+1010.0,   Bob Brown,Office Supplies,Notebook,124.51,,,-15.99,02-09-2022
+1005.0,jane doe,Furniture,Chair,679.37,,,error,03/09/2022
+1016.0,ALICE Johnson,Furniture,Bookshelf,961.58,9,N/A,error,03-09-2022
+1014.0,jane doe,Office Supplies,Stapler,973.08,9,0.29,,04/09/2022
+1015.0,jane doe,Furniture,Cabinet,916.41,10,N/A,,
+1007.0,   Bob Brown,Electronics,Headphones,596.89,,N/A,error,
+1006.0,jane doe,Office Supplies,Pen,943.29,,,-35.51,06-09-2022
+1002.0,jane doe,Furniture,Bookshelf,611.36,10,,error,07-09-2022
+1019.0, John Smith ,Office Supplies,Stapler,114.64,8,,,
+1015.0,   Bob Brown,Office Supplies,Notebook,89.71,,,error,08-09-2022
+1017.0,   Bob Brown,Furniture,Bookshelf,993.57,,0.11,390.27,09/09/2022
+1000.0, John Smith ,Electronics,Tablet,354.22,,0.24,434.65,10-09-2022
+1002.0,ALICE Johnson,Furniture,Chair,444.82,,,error,11/09/2022
+1006.0,ALICE Johnson,Furniture,Bookshelf,500.79,10,,,
+1019.0,   Bob Brown,Office Supplies,Notebook,436.88,4,0.26,353.59,12-09-2022
+1019.0, John Smith ,Electronics,Smartphone,231.33,,N/A,127.94,13/09/2022
+1013.0,   Bob Brown,Electronics,Headphones,629.2,,,145.53,14/09/2022
+1009.0,jane doe,Office Supplies,Pen,512.6,,N/A,error,14-09-2022
+1017.0,jane doe,Office Supplies,Pen,559.82,,,error,15/09/2022
+1010.0,ALICE Johnson,Office Supplies,Notebook,67.21,,0.16,,
+1001.0, John Smith ,Electronics,Smartphone,540.43,9,,,16-09-2022
+1012.0, John Smith ,Electronics,Laptop,131.7,5,,268.23,17/09/2022
+1016.0,   Bob Brown,Electronics,Headphones,274.2,,,error,18-09-2022
+1003.0, John Smith ,Electronics,Headphones,735.5,,0.23,error,19/09/2022
+1014.0,jane doe,Electronics,Tablet,294.94,,N/A,,
+1008.0,ALICE Johnson,Office Supplies,Notebook,456.27,7,0.13,error,20/09/2022
+1003.0,ALICE Johnson,Electronics,Tablet,597.17,,,,
+1006.0,   Bob Brown,Furniture,Desk,723.29,,0.15,error,22-09-2022
+1002.0,Michael   White,Office Supplies,Notebook,510.15,3,N/A,error,22/09/2022
+1001.0,ALICE Johnson,Electronics,Headphones,104.37,6,,error,23/09/2022
+1002.0, John Smith ,Office Supplies,Pen,356.57,,,225.63,24-09-2022
+1003.0, John Smith ,Office Supplies,Pen,238.25,2,,error,
+1016.0,Michael   White,Furniture,Cabinet,157.51,,0.12,error,25-09-2022
+1011.0,jane doe,Furniture,Cabinet,288.02,,,479.09,26-09-2022
+1018.0, John Smith ,Electronics,Tablet,707.5,10,0.2,,27-09-2022
+1011.0,Michael   White,Office Supplies,Pen,667.39,,,,27-09-2022
+1006.0,   Bob Brown,Furniture,Cabinet,467.86,,,234.49,
+1002.0,ALICE Johnson,Furniture,Chair,636.65,3,,-13.31,29/09/2022
+1005.0, John Smith ,Electronics,Smartphone,778.4,9,,115.98,
+1008.0, John Smith ,Furniture,Desk,208.91,,,error,30-09-2022
+1013.0,   Bob Brown,Electronics,Smartphone,,,,,01-10-2022
+1000.0, John Smith ,Office Supplies,Marker,751.02,,,error,
+1011.0,   Bob Brown,Office Supplies,Pen,569.62,,,,03/10/2022
+1014.0,Michael   White,Office Supplies,Stapler,570.23,,,,
+1003.0, John Smith ,Furniture,Chair,171.5,3,0.04,error,04/10/2022
+1013.0,ALICE Johnson,Office Supplies,Stapler,341.31,7,,error,05-10-2022
+1020.0,jane doe,Electronics,Laptop,241.33,,N/A,,
+1001.0,Michael   White,Electronics,Smartphone,948.22,7,,error,
+1004.0,jane doe,Furniture,Chair,326.67,5,N/A,-18.16,07-10-2022
+1003.0,Michael   White,Furniture,Bookshelf,906.76,,0.01,,
+1013.0, John Smith ,Furniture,Cabinet,792.99,8,0.03,378.49,08-10-2022
+1010.0,jane doe,Electronics,Smartphone,495.12,,,,09/10/2022
+1005.0,   Bob Brown,Furniture,Desk,,,,89.0,
+1020.0, John Smith ,Furniture,Bookshelf,522.92,,,,
+1009.0,jane doe,Furniture,Chair,278.36,3,0.08,error,11-10-2022
+1009.0,   Bob Brown,Office Supplies,Notebook,800.05,,,,12/10/2022
+1001.0, John Smith ,Office Supplies,Notebook,728.03,,N/A,,13-10-2022
+1018.0,ALICE Johnson,Office Supplies,Marker,,5,,error,13/10/2022
+1011.0,Michael   White,Office Supplies,Stapler,200.53,6,,error,14/10/2022
+1014.0,ALICE Johnson,Furniture,Desk,426.02,7,N/A,400.71,15-10-2022
+1000.0, John Smith ,Office Supplies,Notebook,961.44,4,0.09,error,16/10/2022
+1010.0, John Smith ,Electronics,Smartphone,,,,error,16-10-2022
+1010.0,Michael   White,Furniture,Chair,563.97,,,error,17-10-2022
+1015.0,   Bob Brown,Office Supplies,Notebook,502.15,,N/A,error,18-10-2022
+1016.0,Michael   White,Furniture,Desk,,,,,
+1006.0,Michael   White,Electronics,Headphones,482.15,,N/A,311.99,
+1018.0, John Smith ,Office Supplies,Marker,,,0.22,,20/10/2022
+1006.0, John Smith ,Electronics,Headphones,181.7,,,error,21-10-2022
+1010.0,ALICE Johnson,Furniture,Bookshelf,327.43,4,,error,21-10-2022
+1019.0, John Smith ,Office Supplies,Stapler,206.56,,N/A,-16.89,22/10/2022
+1002.0,   Bob Brown,Electronics,Smartphone,254.63,,N/A,,23-10-2022
+1009.0,Michael   White,Electronics,Smartphone,897.23,6,,error,24-10-2022
+1009.0,Michael   White,Furniture,Desk,988.71,,0.16,,24-10-2022
+1009.0,Michael   White,Office Supplies,Notebook,55.83,,,error,25/10/2022
+1001.0, John Smith ,Electronics,Smartphone,947.92,,0.21,,26/10/2022
+1017.0,ALICE Johnson,Electronics,Headphones,797.85,,0.1,,27/10/2022
+1004.0,   Bob Brown,Furniture,Desk,64.61,,,error,
+1004.0,Michael   White,Electronics,Laptop,251.29,,,-27.46,28-10-2022
+1018.0,Michael   White,Electronics,Laptop,96.91,10,,,29/10/2022
+1008.0,   Bob Brown,Furniture,Cabinet,743.71,4,,120.78,
+1019.0,   Bob Brown,Office Supplies,Notebook,387.07,,N/A,187.12,30-10-2022
+1019.0,ALICE Johnson,Office Supplies,Notebook,149.56,,0.03,277.7,31/10/2022
+1020.0,Michael   White,Furniture,Desk,411.41,,,171.34,01/11/2022
+1018.0, John Smith ,Office Supplies,Marker,822.88,,0.25,,01/11/2022
+1010.0,jane doe,Office Supplies,Notebook,,9,0.02,,02/11/2022
+1003.0,Michael   White,Office Supplies,Pen,,,N/A,error,03-11-2022
+1015.0,ALICE Johnson,Office Supplies,Marker,893.6,,0.13,239.13,04/11/2022
+1017.0,   Bob Brown,Office Supplies,Pen,493.99,,0.2,error,04-11-2022
+1010.0,   Bob Brown,Furniture,Chair,,1,0.11,error,05-11-2022
+1002.0,jane doe,Electronics,Laptop,820.85,,,error,06-11-2022
+1006.0,ALICE Johnson,Electronics,Tablet,260.02,,,,07-11-2022
+1007.0, John Smith ,Office Supplies,Notebook,,1,N/A,492.64,07-11-2022
+1006.0, John Smith ,Electronics,Laptop,102.56,,,206.34,08/11/2022
+1000.0, John Smith ,Office Supplies,Stapler,655.66,6,,,09/11/2022
+1020.0,ALICE Johnson,Office Supplies,Marker,75.57,,0.07,error,
+1018.0, John Smith ,Furniture,Chair,869.64,7,,198.54,10/11/2022
+1013.0,jane doe,Office Supplies,Pen,61.32,,0.08,,11/11/2022
+1015.0,ALICE Johnson,Electronics,Headphones,889.15,,0.21,349.22,12/11/2022
+1002.0,jane doe,Office Supplies,Marker,179.41,,N/A,200.36,12/11/2022
+,ALICE Johnson,Electronics,Smartphone,,,0.14,176.97,13/11/2022
+1020.0,Michael   White,Office Supplies,Marker,595.69,3,,,14/11/2022
+1018.0,   Bob Brown,Furniture,Bookshelf,71.72,,N/A,154.79,
+,ALICE Johnson,Office Supplies,Pen,519.4,6,N/A,error,
+1003.0,ALICE Johnson,Electronics,Tablet,198.77,,,301.73,16/11/2022
+1015.0,   Bob Brown,Furniture,Cabinet,488.08,3,N/A,68.41,17-11-2022
+1013.0,Michael   White,Electronics,Headphones,827.93,,,50.58,17/11/2022
+1006.0,Michael   White,Electronics,Headphones,864.98,,,error,
+1006.0,Michael   White,Furniture,Bookshelf,859.04,1,,-84.24,19/11/2022
+1013.0, John Smith ,Electronics,Laptop,,,,432.54,20-11-2022
+1016.0, John Smith ,Furniture,Chair,187.78,,,188.54,
+1020.0,   Bob Brown,Electronics,Headphones,814.36,,0.03,error,21-11-2022
+,ALICE Johnson,Furniture,Bookshelf,988.29,1,,273.09,
+1007.0,   Bob Brown,Electronics,Tablet,,6,,error,23/11/2022
+1018.0, John Smith ,Electronics,Tablet,701.24,,,error,23-11-2022
+1013.0,   Bob Brown,Furniture,Cabinet,191.61,5,,,
+,ALICE Johnson,Furniture,Cabinet,942.73,,N/A,52.14,
+1008.0,ALICE Johnson,Furniture,Desk,54.44,,,error,
+1006.0,ALICE Johnson,Office Supplies,Stapler,92.01,,0.28,213.3,26/11/2022
+1011.0,jane doe,Office Supplies,Marker,990.97,,,,27-11-2022
+1005.0,Michael   White,Electronics,Headphones,117.05,,,-50.94,
+1002.0,   Bob Brown,Electronics,Headphones,543.72,,0.09,,
+1020.0, John Smith ,Office Supplies,Marker,,,0.13,480.36,29/11/2022
+1015.0,Michael   White,Furniture,Bookshelf,374.02,,,error,30-11-2022
+1006.0,jane doe,Office Supplies,Notebook,184.12,,N/A,241.82,01/12/2022
+1009.0,Michael   White,Office Supplies,Notebook,789.1,9,,error,01/12/2022
+1005.0,   Bob Brown,Electronics,Laptop,246.97,,N/A,498.6,02/12/2022
+1008.0,jane doe,Office Supplies,Notebook,,,N/A,,03/12/2022
+1012.0,jane doe,Electronics,Headphones,250.12,,,282.45,04/12/2022
+1005.0,Michael   White,Furniture,Cabinet,400.33,,,,
+1012.0, John Smith ,Office Supplies,Notebook,473.03,,,,05/12/2022
+1003.0, John Smith ,Electronics,Headphones,893.45,6,,-46.96,
+1004.0,   Bob Brown,Office Supplies,Marker,434.72,3,0.05,203.56,
+1017.0,ALICE Johnson,Office Supplies,Marker,314.7,,0.23,366.02,
+1016.0,jane doe,Electronics,Laptop,419.84,3,N/A,,08/12/2022
+1000.0,jane doe,Furniture,Bookshelf,693.87,,,error,09-12-2022
+1005.0,   Bob Brown,Electronics,Headphones,234.29,,,,
+1017.0,Michael   White,Office Supplies,Pen,894.9,9,0.25,error,
+1017.0, John Smith ,Furniture,Bookshelf,910.11,,N/A,error,
+, John Smith ,Electronics,Tablet,966.43,,,65.91,12/12/2022
+1000.0,   Bob Brown,Office Supplies,Notebook,303.69,9,,,12-12-2022
+1005.0,ALICE Johnson,Office Supplies,Stapler,,,,error,13/12/2022
+1009.0, John Smith ,Office Supplies,Pen,59.12,6,0.27,179.31,14-12-2022
+1015.0,   Bob Brown,Furniture,Chair,243.26,,,,14/12/2022
+1014.0, John Smith ,Office Supplies,Notebook,149.94,5,,451.45,15/12/2022
+,ALICE Johnson,Furniture,Chair,598.64,,,423.57,16-12-2022
+1013.0, John Smith ,Office Supplies,Notebook,226.5,,N/A,error,17/12/2022
+1010.0,ALICE Johnson,Office Supplies,Notebook,227.73,,0.1,319.06,17-12-2022
+1001.0,Michael   White,Electronics,Smartphone,990.75,,,484.45,18-12-2022
+1004.0,   Bob Brown,Office Supplies,Stapler,264.01,4,0.03,,19-12-2022
+1019.0,Michael   White,Furniture,Cabinet,984.73,,,,20/12/2022
+1003.0,jane doe,Furniture,Cabinet,553.41,1,0.12,228.73,20-12-2022
+1008.0,   Bob Brown,Electronics,Headphones,377.46,3,,,21-12-2022
+1002.0,ALICE Johnson,Furniture,Bookshelf,325.34,1,,error,22/12/2022
+1011.0,jane doe,Electronics,Smartphone,,2,,371.09,22-12-2022
+1012.0,Michael   White,Furniture,Cabinet,814.87,,,error,23-12-2022
+1016.0,jane doe,Electronics,Tablet,288.73,3,,error,24/12/2022
+1015.0,Michael   White,Furniture,Desk,,,0.1,309.47,25-12-2022
+1013.0,jane doe,Electronics,Smartphone,602.42,7,N/A,error,
+1000.0, John Smith ,Furniture,Desk,153.37,,0.15,error,26/12/2022
+1018.0, John Smith ,Furniture,Bookshelf,673.16,,0.19,error,27-12-2022
+1020.0,ALICE Johnson,Furniture,Chair,932.34,,N/A,206.14,28/12/2022
+,Michael   White,Office Supplies,Stapler,403.46,,,,28-12-2022
+1018.0, John Smith ,Furniture,Desk,135.96,,,,29-12-2022
+1004.0,Michael   White,Electronics,Headphones,190.31,,N/A,462.74,30/12/2022
+1006.0, John Smith ,Office Supplies,Pen,686.58,,N/A,478.84,
